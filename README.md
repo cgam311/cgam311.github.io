@@ -1,9 +1,7 @@
-#  
-Here are some projects that I've created throughout my programming classes in 
-
 ## Education
-- 2021-2025, Undergraduate in BSc. in Geodetic Engineering, University of the Philippines Diliman
+- 2021-Current, Undergraduate in BSc. in Geodetic Engineering, University of the Philippines Diliman
 
+Here are some projects I've created throughout my programming classes in my degree program. 
 ## Exercises
 - [GE 120 Activity 1A: Angle Conversions](Macam_ME1A.py)
 - [GE 120 Activity 1B: Quadratic Equations](Macam_ME1B.py)
