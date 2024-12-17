@@ -6,4 +6,4 @@ Welcome to my Portfolio throughout my GE journey!
 
 ## Projects 
 - [Try](https://colab.research.google.com/drive/12TJdVb5seqXjOkbRv1WaIITCqioxdadh?authuser=2)
-- [Try 2.0](Macam_ME1A.py)
+- [Coverting Decimal Degrees to DMS](Macam_ME1A.py)
