@@ -1,6 +1,9 @@
 ## Education
 - 2021-Current, Undergraduate in BSc. in Geodetic Engineering, University of the Philippines Diliman
 
+## Work Experience
+- Argotek and APSI Intern (June 2024 - August 2024)
+
 Here are some projects I've created throughout my programming classes in my degree program. 
 ## Exercises
 - [GE 120 Activity 1A: Angle Conversions](Macam_ME1A.py)
