@@ -1,5 +1,6 @@
 ## Education
 - 2021-Current, Undergraduate in BSc. in Geodetic Engineering, University of the Philippines Diliman
+- 2019-2021, Some college in BSc. in Chemical Engineering, University of the Philippines Diliman
 
 ## Work Experience
 - Argotek and APSI Intern (June 2024 - August 2024)
